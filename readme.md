@@ -1,0 +1,1 @@
+Sistema de loja virtual Desenvolvido em Java com Spring Boot e JPA com banco de dados postgres 
