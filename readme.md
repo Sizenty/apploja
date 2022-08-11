@@ -1,1 +1,1 @@
-Sistema de loja virtual Desenvolvido em Java com Spring Boot e JPA com banco de dados postgres 
+Sistema de loja virtual Desenvolvido em Java 12 com Spring Boot 7 e JPA 8 com banco de dados postgres vr12 
